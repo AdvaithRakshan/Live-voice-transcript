@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+vosk
+langdetect
+openai-whisper
+word2number
